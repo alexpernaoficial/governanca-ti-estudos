@@ -31,3 +31,10 @@ Termos explicados de forma simples. Cresce conforme os estudos avançam.
 | **Escopo (ISO)** | A parte da empresa que entra no sistema de gestão e na certificação. |
 | **SOC 2** | Relatório de auditoria (Tipo I ou II) sobre controles para dados de clientes, comum em empresas de nuvem. |
 | **PCI DSS** | Padrão de segurança para quem armazena, processa ou transmite dados de cartão de pagamento. |
+| **Shadow IT** | Tecnologia (apps, planilhas, SaaS) usada sem conhecimento ou aprovação da área responsável. |
+| **SaaS** | Software como serviço: o sistema é usado pela internet, por assinatura, sem instalar nada. |
+| **Make or buy** | Decisão de fazer internamente ou comprar/terceirizar, conforme desempenho e diferenciação. |
+| **ISO/IEC 38500** | Norma de governança de TI: avaliar, dirigir e monitorar. Versão 2024 com 11 princípios (alinhada à ISO 37000). |
+| **ISO/IEC 38505-1** | Aplicação da ISO 38500 à governança de dados. |
+| **IT4IT** | Modelo do Open Group para gerir a TI como cadeia de valor, com 7 fluxos de valor na versão 3.0. |
+| **DPBoK** | Digital Practitioner Body of Knowledge, do Open Group: como a TI amadurece de um time pequeno até a corporação. |

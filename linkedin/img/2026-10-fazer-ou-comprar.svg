@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <defs><style>.f{font-family:"Segoe UI","DejaVu Sans",Arial,sans-serif}</style></defs>
+  <rect width="1080" height="1350" fill="#21162f"/>
+  <circle cx="1000" cy="80" r="260" fill="#3b2856" opacity="0.6"/>
+  <text x="84" y="120" class="f" font-size="26" font-weight="700" letter-spacing="5" fill="#f2b8d8">GESTÃO DE TI · DECISÃO</text>
+  <text x="84" y="214" class="f" font-size="80" font-weight="800" fill="#ffffff">Fazer ou</text>
+  <text x="84" y="304" class="f" font-size="80" font-weight="800" fill="#ffffff">comprar?</text>
+  <text x="84" y="370" class="f" font-size="30" fill="#d7c9e8">Depende de duas perguntas: isso diferencia</text>
+  <text x="84" y="412" class="f" font-size="30" fill="#d7c9e8">o negócio? E nós já fazemos bem?</text>
+
+  <!-- axis labels -->
+  <text x="120" y="840" class="f" font-size="24" font-weight="700" fill="#d7c9e8" transform="rotate(-90 120 840)" text-anchor="middle">DESEMPENHO ATUAL</text>
+  <text x="168" y="610" class="f" font-size="22" font-weight="700" fill="#a996c4" transform="rotate(-90 168 610)" text-anchor="middle">forte</text>
+  <text x="168" y="910" class="f" font-size="22" font-weight="700" fill="#a996c4" transform="rotate(-90 168 910)" text-anchor="middle">fraco</text>
+
+  <!-- tiles -->
+  <rect x="196" y="470" width="388" height="280" rx="24" fill="#3e7f6b"/>
+  <text x="226" y="540" class="f" font-size="34" font-weight="800" fill="#ffffff">Terceirizar</text>
+  <text x="226" y="584" class="f" font-size="34" font-weight="800" fill="#ffffff">para focar</text>
+  <text x="226" y="650" class="f" font-size="25" fill="#e3f2ec">Funciona, mas não é o</text>
+  <text x="226" y="686" class="f" font-size="25" fill="#e3f2ec">que diferencia a empresa.</text>
+
+  <rect x="608" y="470" width="388" height="280" rx="24" fill="#e0703a"/>
+  <text x="638" y="540" class="f" font-size="34" font-weight="800" fill="#ffffff">Manter</text>
+  <text x="638" y="584" class="f" font-size="34" font-weight="800" fill="#ffffff">em casa</text>
+  <text x="638" y="650" class="f" font-size="25" fill="#fff1e8">É diferencial e a equipe</text>
+  <text x="638" y="686" class="f" font-size="25" fill="#fff1e8">já entrega bem.</text>
+
+  <rect x="196" y="774" width="388" height="280" rx="24" fill="#5c9a86"/>
+  <text x="226" y="844" class="f" font-size="34" font-weight="800" fill="#ffffff">Terceirizar</text>
+  <text x="226" y="888" class="f" font-size="34" font-weight="800" fill="#ffffff">pelo custo</text>
+  <text x="226" y="954" class="f" font-size="25" fill="#e3f2ec">Commodity que hoje</text>
+  <text x="226" y="990" class="f" font-size="25" fill="#e3f2ec">custa caro fazer.</text>
+
+  <rect x="608" y="774" width="388" height="280" rx="24" fill="#4f6fd1"/>
+  <text x="638" y="844" class="f" font-size="34" font-weight="800" fill="#ffffff">Buscar um</text>
+  <text x="638" y="888" class="f" font-size="34" font-weight="800" fill="#ffffff">parceiro</text>
+  <text x="638" y="954" class="f" font-size="25" fill="#eaefff">Diferencial, mas ainda</text>
+  <text x="638" y="990" class="f" font-size="25" fill="#eaefff">sem força para fazer só.</text>
+
+  <text x="390" y="1100" class="f" font-size="22" font-weight="700" fill="#a996c4" text-anchor="middle">commodity</text>
+  <text x="802" y="1100" class="f" font-size="22" font-weight="700" fill="#a996c4" text-anchor="middle">diferencial</text>
+  <text x="596" y="1146" class="f" font-size="24" font-weight="700" fill="#d7c9e8" text-anchor="middle">O QUANTO DIFERENCIA O NEGÓCIO</text>
+
+  <line x1="84" y1="1214" x2="996" y2="1214" stroke="#4a3866" stroke-width="2"/>
+  <text x="540" y="1278" class="f" font-size="27" font-weight="700" fill="#ffffff" text-anchor="middle">E quando a área compra sozinha, sem a TI: <tspan fill="#f2b8d8">Shadow IT.</tspan></text>
+</svg>
