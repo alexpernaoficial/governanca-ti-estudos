@@ -22,7 +22,7 @@ Legenda: ☑ concluído · ◐ em andamento · ☐ a fazer
 ### 00 · Panorama
 | | Aula | Fonte | Nota |
 |---|---|---|---|
-| ☑ | Papel estratégico da TI em programas de GRC | [TIexames](https://youtu.be/hsWt3pymXKg) | em breve |
+| ☑ | Papel estratégico da TI em programas de GRC | [TIexames](https://youtu.be/hsWt3pymXKg) | [nota](00-panorama/01-papel-estrategico-da-ti-em-grc.md) |
 | ☑ | O novo profissional de GRC que o mercado procura | [TIexames](https://youtu.be/AaOTz0_X6Ro) | [nota](00-panorama/02-o-novo-profissional-de-grc.md) |
 | ◐ | Comparando frameworks: NIST CSF, ISO/IEC 27001 e CIS Controls | [TIexames](https://youtu.be/lpaWoFS33Bg) | |
 | ☐ | Desafios do gestor de TI | [TIexames](https://youtu.be/KlgMY0JfNpM) | |
