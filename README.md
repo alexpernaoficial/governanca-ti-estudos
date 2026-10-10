@@ -24,8 +24,8 @@ Legenda: ☑ concluído · ◐ em andamento · ☐ a fazer
 |---|---|---|---|
 | ☑ | Papel estratégico da TI em programas de GRC | [TIexames](https://youtu.be/hsWt3pymXKg) | [nota](00-panorama/01-papel-estrategico-da-ti-em-grc.md) |
 | ☑ | O novo profissional de GRC que o mercado procura | [TIexames](https://youtu.be/AaOTz0_X6Ro) | [nota](00-panorama/02-o-novo-profissional-de-grc.md) |
-| ◐ | Comparando frameworks: NIST CSF, ISO/IEC 27001 e CIS Controls | [TIexames](https://youtu.be/lpaWoFS33Bg) | |
-| ☐ | Desafios do gestor de TI | [TIexames](https://youtu.be/KlgMY0JfNpM) | |
+| ☑ | Comparando frameworks: NIST CSF, ISO/IEC 27001 e CIS Controls | [TIexames](https://youtu.be/lpaWoFS33Bg) | [nota](00-panorama/03-comparando-frameworks-nist-iso-cis.md) |
+| ◐ | Desafios do gestor de TI | [TIexames](https://youtu.be/KlgMY0JfNpM) | |
 
 ### 01 · ITIL e gestão de serviços
 ☐ Fundamentos do ITIL · ☐ ISO/IEC 20000 + ITIL · ☐ ITIL 5 e IA · ☐ Gestão de incidentes (2 aulas) · ☐ Mapeamento de processos e POPs · ☐ ISO 20000 corporativa

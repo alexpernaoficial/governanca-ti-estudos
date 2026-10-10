@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <defs>
+    <style>
+      .f{font-family:"Segoe UI","DejaVu Sans",Arial,sans-serif}
+    </style>
+  </defs>
+  <rect width="1080" height="1350" fill="#f5f1e8"/>
+  <rect x="0" y="0" width="1080" height="14" fill="#1d2433"/>
+  <text x="84" y="118" class="f" font-size="26" font-weight="700" letter-spacing="5" fill="#8a6d3b">CAIXA DE FERRAMENTAS · SEGURANÇA</text>
+  <text x="84" y="210" class="f" font-size="76" font-weight="800" fill="#1d2433">Qual framework</text>
+  <text x="84" y="296" class="f" font-size="76" font-weight="800" fill="#1d2433">usar? <tspan fill="#c2410c">Depende</tspan></text>
+  <text x="84" y="382" class="f" font-size="76" font-weight="800" fill="#c2410c">do problema.</text>
+
+  <!-- card CIS -->
+  <rect x="84" y="440" width="912" height="230" rx="22" fill="#ffffff"/>
+  <rect x="84" y="440" width="14" height="230" rx="7" fill="#0f766e"/>
+  <text x="130" y="500" class="f" font-size="40" font-weight="800" fill="#0f766e">CIS Controls</text>
+  <text x="964" y="500" text-anchor="end" class="f" font-size="26" font-weight="700" fill="#1d2433">Para começar rápido</text>
+  <text x="130" y="556" class="f" font-size="28" fill="#3b4252">Gratuito e direto. O IG1 ("higiene básica")</text>
+  <text x="130" y="598" class="f" font-size="28" fill="#3b4252">tem 56 medidas e serve bem a empresas</text>
+  <text x="130" y="640" class="f" font-size="28" fill="#3b4252">pequenas, com pouca gente de TI.</text>
+
+  <!-- card ISO -->
+  <rect x="84" y="696" width="912" height="230" rx="22" fill="#ffffff"/>
+  <rect x="84" y="696" width="14" height="230" rx="7" fill="#4338ca"/>
+  <text x="130" y="756" class="f" font-size="40" font-weight="800" fill="#4338ca">ISO/IEC 27001</text>
+  <text x="964" y="756" text-anchor="end" class="f" font-size="26" font-weight="700" fill="#1d2433">Quando precisa provar</text>
+  <text x="130" y="812" class="f" font-size="28" fill="#3b4252">A única dos três com certificado aceito no</text>
+  <text x="130" y="854" class="f" font-size="28" fill="#3b4252">mundo todo. 93 controles. Exige mais</text>
+  <text x="130" y="896" class="f" font-size="28" fill="#3b4252">estrutura, tempo e investimento.</text>
+
+  <!-- card NIST -->
+  <rect x="84" y="952" width="912" height="230" rx="22" fill="#ffffff"/>
+  <rect x="84" y="952" width="14" height="230" rx="7" fill="#c2410c"/>
+  <text x="130" y="1012" class="f" font-size="40" font-weight="800" fill="#c2410c">NIST CSF 2.0</text>
+  <text x="964" y="1012" text-anchor="end" class="f" font-size="26" font-weight="700" fill="#1d2433">Para organizar, sem selo</text>
+  <text x="130" y="1068" class="f" font-size="28" fill="#3b4252">Governar · Identificar · Proteger · Detectar</text>
+  <text x="130" y="1110" class="f" font-size="28" fill="#3b4252">· Responder · Recuperar. Gratuito, flexível</text>
+  <text x="130" y="1152" class="f" font-size="28" fill="#3b4252">e conversa bem com os outros.</text>
+
+  <line x1="84" y1="1234" x2="996" y2="1234" stroke="#d8cfbd" stroke-width="2"/>
+  <text x="540" y="1290" text-anchor="middle" class="f" font-size="28" font-weight="700" fill="#1d2433">Todos começam pelo mesmo ponto: <tspan fill="#c2410c">o risco.</tspan></text>
+</svg>
