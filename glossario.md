@@ -38,3 +38,12 @@ Termos explicados de forma simples. Cresce conforme os estudos avançam.
 | **ISO/IEC 38505-1** | Aplicação da ISO 38500 à governança de dados. |
 | **IT4IT** | Modelo do Open Group para gerir a TI como cadeia de valor, com 7 fluxos de valor na versão 3.0. |
 | **DPBoK** | Digital Practitioner Body of Knowledge, do Open Group: como a TI amadurece de um time pequeno até a corporação. |
+| **Serviço (ITIL 4)** | Meio de cocriar valor, facilitando os resultados que o consumidor quer sem que ele assuma custos e riscos específicos. |
+| **Cocriação de valor** | O valor nasce da colaboração entre provedor e consumidor; os dois influenciam o resultado. |
+| **Cliente / usuário / patrocinador** | Papéis do consumidor: quem define requisitos e responde pelo contrato / quem usa / quem autoriza e paga. |
+| **Utilidade** | O que o serviço faz: se atende ao propósito (*fit for purpose*). |
+| **Garantia** | Como o serviço entrega: disponibilidade, capacidade, segurança e continuidade (*fit for use*). |
+| **Princípios orientadores** | 7 recomendações universais do ITIL, de "foco no valor" a "otimize e automatize". |
+| **4 dimensões** | Organizações e pessoas; informação e tecnologia; parceiros e fornecedores; fluxos de valor e processos. |
+| **PESTEL** | Fatores externos: político, econômico, social, tecnológico, legal e ambiental. |
+| **POP** | Procedimento operacional padrão: passo a passo para todos executarem a tarefa do mesmo jeito. |

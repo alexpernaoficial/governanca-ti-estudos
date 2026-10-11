@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+<rect width="1080" height="1350" fill="#F4F6F8"/>
+<rect x="0" y="0" width="1080" height="14" fill="#0F766E"/>
+<text x="84" y="118" font-family="Segoe UI, DejaVu Sans, Arial, sans-serif" font-size="26" font-weight="700" fill="#0F766E" letter-spacing="3">ITIL 4 · GESTÃO DE SERVIÇOS</text>
+<text x="84" y="196" font-family="Segoe UI, DejaVu Sans, Arial, sans-serif" font-size="60" font-weight="800" fill="#111827">O que eu achava</text>
+<text x="84" y="268" font-family="Segoe UI, DejaVu Sans, Arial, sans-serif" font-size="60" font-weight="800" fill="#111827">× o que a aula mostrou</text>
+<text x="84" y="350" font-family="Segoe UI, DejaVu Sans, Arial, sans-serif" font-size="30" font-weight="700" fill="#B91C1C">✕  ANTES</text>
+<text x="560" y="350" font-family="Segoe UI, DejaVu Sans, Arial, sans-serif" font-size="30" font-weight="700" fill="#0F766E">✓  DEPOIS</text>
+<rect x="84" y="376" width="440" height="166" rx="18" fill="#FFFFFF" stroke="#FECACA" stroke-width="3"/>
+<rect x="556" y="376" width="440" height="166" rx="18" fill="#0F766E"/>
+<text x="114" y="428" font-family="Segoe UI, DejaVu Sans, Arial, sans-serif" font-size="30" fill="#6B7280">Serviço é o sistema</text>
+<text x="114" y="470" font-family="Segoe UI, DejaVu Sans, Arial, sans-serif" font-size="30" fill="#6B7280">que a gente entrega.</text>
+<text x="586" y="428" font-family="Segoe UI, DejaVu Sans, Arial, sans-serif" font-size="29" font-weight="700" fill="#FFFFFF">Serviço é o meio de</text>
+<text x="586" y="470" font-family="Segoe UI, DejaVu Sans, Arial, sans-serif" font-size="29" font-weight="700" fill="#FFFFFF">levar alguém ao</text>
+<text x="586" y="512" font-family="Segoe UI, DejaVu Sans, Arial, sans-serif" font-size="29" font-weight="700" fill="#FFFFFF">resultado que ele quer.</text>
+<rect x="84" y="564" width="440" height="124" rx="18" fill="#FFFFFF" stroke="#FECACA" stroke-width="3"/>
+<rect x="556" y="564" width="440" height="124" rx="18" fill="#0F766E"/>
+<text x="114" y="616" font-family="Segoe UI, DejaVu Sans, Arial, sans-serif" font-size="30" fill="#6B7280">Fechei o chamado,</text>
+<text x="114" y="658" font-family="Segoe UI, DejaVu Sans, Arial, sans-serif" font-size="30" fill="#6B7280">entreguei valor.</text>
+<text x="586" y="616" font-family="Segoe UI, DejaVu Sans, Arial, sans-serif" font-size="29" font-weight="700" fill="#FFFFFF">Quem define o valor</text>
+<text x="586" y="658" font-family="Segoe UI, DejaVu Sans, Arial, sans-serif" font-size="29" font-weight="700" fill="#FFFFFF">é quem usa o serviço.</text>
+<rect x="84" y="710" width="440" height="166" rx="18" fill="#FFFFFF" stroke="#FECACA" stroke-width="3"/>
+<rect x="556" y="710" width="440" height="166" rx="18" fill="#0F766E"/>
+<text x="114" y="762" font-family="Segoe UI, DejaVu Sans, Arial, sans-serif" font-size="30" fill="#6B7280">Para melhorar, é preciso</text>
+<text x="114" y="804" font-family="Segoe UI, DejaVu Sans, Arial, sans-serif" font-size="30" fill="#6B7280">refazer tudo do zero.</text>
+<text x="586" y="762" font-family="Segoe UI, DejaVu Sans, Arial, sans-serif" font-size="29" font-weight="700" fill="#FFFFFF">Comece de onde está:</text>
+<text x="586" y="804" font-family="Segoe UI, DejaVu Sans, Arial, sans-serif" font-size="29" font-weight="700" fill="#FFFFFF">aproveite o que</text>
+<text x="586" y="846" font-family="Segoe UI, DejaVu Sans, Arial, sans-serif" font-size="29" font-weight="700" fill="#FFFFFF">já funciona.</text>
+<rect x="84" y="898" width="440" height="166" rx="18" fill="#FFFFFF" stroke="#FECACA" stroke-width="3"/>
+<rect x="556" y="898" width="440" height="166" rx="18" fill="#0F766E"/>
+<text x="114" y="950" font-family="Segoe UI, DejaVu Sans, Arial, sans-serif" font-size="30" fill="#6B7280">Automatizar resolve</text>
+<text x="114" y="992" font-family="Segoe UI, DejaVu Sans, Arial, sans-serif" font-size="30" fill="#6B7280">o processo.</text>
+<text x="586" y="950" font-family="Segoe UI, DejaVu Sans, Arial, sans-serif" font-size="29" font-weight="700" fill="#FFFFFF">Automatizar processo</text>
+<text x="586" y="992" font-family="Segoe UI, DejaVu Sans, Arial, sans-serif" font-size="29" font-weight="700" fill="#FFFFFF">bagunçado só</text>
+<text x="586" y="1034" font-family="Segoe UI, DejaVu Sans, Arial, sans-serif" font-size="29" font-weight="700" fill="#FFFFFF">multiplica o erro.</text>
+<text x="84" y="1126" font-family="Segoe UI, DejaVu Sans, Arial, sans-serif" font-size="32" font-weight="700" fill="#111827">Valor = utilidade + garantia</text>
+<text x="84" y="1172" font-family="Segoe UI, DejaVu Sans, Arial, sans-serif" font-size="28" fill="#374151">Serve para quê? E funciona quando eu preciso?</text>
+<line x1="84" y1="1270" x2="996" y2="1270" stroke="#D1D5DB" stroke-width="2"/>
+<text x="84" y="1310" font-family="Segoe UI, DejaVu Sans, Arial, sans-serif" font-size="24" fill="#6B7280">Anotações de estudo · aula da TIexames</text>
+<text x="996" y="1310" font-family="Segoe UI, DejaVu Sans, Arial, sans-serif" font-size="24" fill="#0F766E" text-anchor="end">#ITIL #GestaoDeServicos</text>
+</svg>

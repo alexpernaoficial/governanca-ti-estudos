@@ -28,7 +28,11 @@ Legenda: ☑ concluído · ◐ em andamento · ☐ a fazer
 | ☑ | Desafios do gestor de TI | [TIexames](https://youtu.be/KlgMY0JfNpM) | [nota](00-panorama/04-desafios-do-gestor-de-ti.md) |
 
 ### 01 · ITIL e gestão de serviços
-◐ Fundamentos do ITIL · ☐ ISO/IEC 20000 + ITIL · ☐ ITIL 5 e IA · ☐ Gestão de incidentes (2 aulas) · ☐ Mapeamento de processos e POPs · ☐ ISO 20000 corporativa
+| | Aula | Fonte | Nota |
+|---|---|---|---|
+| ☑ | ITIL 4 – Gestão de Serviços – Aula 1: serviço, valor, princípios e 4 dimensões | [TIexames](https://youtu.be/Ddlws7iIfYc) | [nota](01-itil-gestao-de-servicos/05-itil-4-fundamentos-servico-valor-principios.md) |
+
+◐ ITIL 4 – Aula 2 · ☐ ISO/IEC 20000 + ITIL · ☐ ITIL 5 e IA · ☐ Gestão de incidentes (2 aulas) · ☐ Mapeamento de processos e POPs · ☐ ISO 20000 corporativa
 
 ### 02 · Governança de TI e COBIT
 ☐ Governança com COBIT · ☐ ISO/IEC 38500 · ☐ COBIT e controles internos · ☐ Planejamento estratégico de TI · ☐ Auditoria de TI
