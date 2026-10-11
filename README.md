@@ -54,6 +54,7 @@ Legenda: ☑ concluído · ◐ em andamento · ☐ a fazer
 
 ## Outras pastas
 
+- [`pesquisas/`](pesquisas/) — estudos abertos com dados. Primeiro: [o que 100 vagas de Governança de TI e GRC pedem (out/2026)](pesquisas/2026-10-vagas-governanca-grc/).
 - [`casos-praticos/`](casos-praticos/) — exercícios aplicando o conteúdo no ProvedorX.
 - [`linkedin/`](linkedin/) — posts que nasceram destas notas.
 - [`glossario.md`](glossario.md) — termos explicados de forma simples.
