@@ -83,11 +83,11 @@ São mais de 27 frameworks documentados. Ninguém conhece todos; foque nos princ
 
 **O que todos têm em comum:** abordagem baseada em risco, proteção dos ativos mais críticos, conformidade (mostrar que leva segurança a sério) e melhoria contínua.
 
-## Exemplo no ProvedorX (empresa fictícia)
-- **Começo rápido:** o ProvedorX usa o **IG1 do CIS** (inventário de equipamentos e softwares, MFA para acesso administrativo, backup testado, atualização de firmware dos roteadores) e já consegue cotar seguro cibernético.
-- **Organização:** usa as funções do **NIST CSF 2.0** para organizar o programa: Governar (política e papéis), Identificar (inventário de OLTs, roteadores de borda e sistemas contratados), Proteger, Detectar (monitoramento de rede), Responder (plano para queda massiva ou ataque DDoS) e Recuperar.
-- **Certificação:** se um grande cliente corporativo exigir certificado, o ProvedorX certifica na **ISO 27001** só o escopo do data center e do NOC, olhando também a **ISO/IEC 27011**, específica para telecom.
-- **Teste:** simula uma queda do sistema de gestão sem avisar a equipe e mede quanto tempo leva para voltar.
+## Exemplo prático: uma loja virtual (fictícia)
+- **Começo rápido:** a loja usa o **IG1 do CIS** (inventário de equipamentos e softwares, MFA no painel administrativo, backup testado, atualização dos plugins da plataforma) e já consegue cotar seguro cibernético.
+- **Organização:** usa as funções do **NIST CSF 2.0** para organizar o programa: Governar (política e papéis), Identificar (inventário da plataforma, meios de pagamento e sistemas contratados), Proteger, Detectar (alertas de fraude e de login suspeito), Responder (plano para site fora do ar na Black Friday ou vazamento) e Recuperar.
+- **Certificação:** se um grande parceiro exigir certificado, a loja certifica na **ISO 27001** só o escopo do e-commerce e do atendimento. Como aceita cartão, também precisa olhar o **PCI DSS**.
+- **Teste:** simula a queda da plataforma sem avisar a equipe e mede quanto tempo leva para voltar.
 
 ## Como se conecta com o resto
 - **Aula 01:** "primeiro os riscos, depois os controles" é exatamente como os frameworks começam.

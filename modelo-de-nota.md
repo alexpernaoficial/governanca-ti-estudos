@@ -12,8 +12,8 @@
 ## Explicação simples
 <Os conceitos em ordem, com analogias quando ajudar.>
 
-## Exemplo no ProvedorX (empresa fictícia)
-<Como isso apareceria num provedor de internet.>
+## Exemplo prático: <área> (fictício)
+<Como isso apareceria numa empresa de qualquer área: hospital, escola, loja, transportadora, hotel...>
 
 ## Como se conecta com o resto
 <Ligações com ITIL, COBIT, ISO, LGPD, outras notas.>
@@ -30,6 +30,3 @@
 
 1. ...
 </details>
-
-## Minhas anotações originais (resumo)
-<Pontos do Obsidian que quero manter.>

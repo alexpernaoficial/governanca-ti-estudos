@@ -74,24 +74,24 @@ Em volta delas ficam os **fatores externos**, resumidos pela sigla **PESTEL**: p
 - **"Gestão pela inveja":** divulgar as áreas que **mais ajudaram** no mês. A vontade de aparecer na lista muda o comportamento. Cuidado: mostre só o nome das áreas, **sem números fracos**. O professor contou que já divulgou percentuais baixos e virou piada.
 - **Relatório que ninguém lê não gera valor.** Prefira visual, curto, com o indicador que o cliente usa.
 
-## Exemplo no ProvedorX (empresa fictícia)
-- **Papéis no serviço de internet residencial:**
-  - **Cliente:** o titular do contrato.
-  - **Usuários:** todos na casa que usam o Wi-Fi.
-  - **Patrocinador:** quem paga a fatura, que nem sempre é o titular.
-  - Do lado de dentro, o suporte N1 é **consumidor** do serviço de rede do NOC e **provedor** de atendimento para o cliente.
-- **Cocriação de valor:** a visita técnica só resolve se o cliente estiver em casa e com o equipamento acessível. Sem isso, a visita é perdida, e o custo e a insatisfação são dos dois lados.
+## Exemplo prático: um hotel (fictício)
+- **Papéis no serviço de hospedagem corporativa:**
+  - **Cliente:** a empresa que fechou o contrato de hospedagem.
+  - **Usuários:** os funcionários que se hospedam.
+  - **Patrocinador:** o financeiro que aprova e paga as diárias.
+  - Do lado de dentro, a recepção é **consumidora** do serviço de TI (sistema de reservas) e **provedora** de atendimento para o hóspede.
+- **Cocriação de valor:** o check-in rápido só funciona se o hóspede mandar os dados antes. Sem isso, a fila cresce, e o custo e a insatisfação são dos dois lados.
 - **Utilidade × garantia:**
-  - Utilidade: o plano de 600 Mb serve para trabalhar em casa.
-  - Garantia: a conexão fica estável à noite, o suporte responde rápido e há aviso proativo de massiva.
-  - Velocidade alta com quedas todo dia não tem valor.
-- **Princípio 3 na prática:** em vez de reescrever o manual inteiro, o supervisor registra por uma semana as dúvidas da equipe, pega as **5 mais frequentes** e escreve um passo a passo curto por semana.
-- **4 dimensões no serviço "instalação":**
-  - pessoas: técnicos treinados;
-  - tecnologia: sistema de ordens de serviço e ONU;
-  - fornecedores: fabricante de equipamentos e empresa terceirizada de campo;
-  - fluxo: venda → agendamento → instalação → ativação → pesquisa.
-- **PESTEL:** alta do dólar encarece ONU e roteador (econômico); norma da Anatel muda prazos (legal).
+  - Utilidade: o quarto tem mesa e Wi-Fi para trabalhar.
+  - Garantia: o Wi-Fi funciona à noite, a manutenção atende rápido e há aviso se faltar água.
+  - Quarto bonito com Wi-Fi que cai todo dia não tem valor para quem viaja a trabalho.
+- **Princípio 3 na prática:** em vez de reescrever o manual inteiro, o gerente registra por uma semana as dúvidas da recepção, pega as **5 mais frequentes** e escreve um passo a passo curto por semana.
+- **4 dimensões no serviço "check-in":**
+  - pessoas: recepcionistas treinados;
+  - tecnologia: sistema de reservas e fechaduras eletrônicas;
+  - fornecedores: plataforma de reservas online e lavanderia terceirizada;
+  - fluxo: reserva → pré-check-in → chegada → entrega da chave → pesquisa de satisfação.
+- **PESTEL:** alta do dólar reduz turistas estrangeiros (econômico); nova regra de cadastro de hóspedes muda o processo (legal).
 
 ## Como se conecta com o resto
 - **Aula 03 (frameworks):** a ISO/IEC 20000 é a norma certificável de gestão de serviços. O ITIL é o "como fazer".
@@ -125,11 +125,3 @@ Em volta delas ficam os **fatores externos**, resumidos pela sigla **PESTEL**: p
 5. Foco no valor; comece de onde você está; progrida iterativamente com feedback; colabore e promova visibilidade; pense e trabalhe de forma holística; mantenha simples e prático; otimize e automatize.
 6. Organizações e pessoas; informação e tecnologia; parceiros e fornecedores; fluxos de valor e processos. PESTEL: político, econômico, social, tecnológico, legal e ambiental.
 </details>
-
-## Minhas anotações originais (resumo)
-- Serviço é o meio para a empresa atingir resultados; visão do consumidor; cada área tem seus objetivos.
-- Cocriação de valor: o RH presta serviços internos e consome serviços externos.
-- Valor depende de percepção: KPI, monitoramento, pesquisa de satisfação, taxa de devolução, contexto de uso.
-- Mostrar o valor da segurança da informação com relatórios: "depende da gente".
-- Recursos (pessoas, produtos, ativos); o RH entrega folha, retenção de talentos, integração, contrato e vales, e isso precisa estar mapeado e documentado.
-- Princípios orientadores: universais, atemporais, inspirados em Lean, Agile, DevOps e COBIT.

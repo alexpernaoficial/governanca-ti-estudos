@@ -10,9 +10,9 @@ Trabalho com suporte técnico num provedor de internet e estudo governança para
 2. Reviso as anotações, completo os pontos que ficaram vagos e organizo no mesmo modelo ([modelo-de-nota.md](modelo-de-nota.md)), com apoio de IA para revisar e complementar.
 3. A versão limpa vem para cá.
 
-Cada nota tem: o que é · explicação simples · exemplo num provedor fictício · pegadinhas de prova · perguntas de revisão · fonte.
+Cada nota tem: o que é · explicação simples · exemplo prático numa empresa fictícia · pegadinhas de prova · perguntas de revisão · fonte.
 
-> Os exemplos usam sempre uma empresa fictícia (**ProvedorX**). Nenhum dado real de empresa aparece aqui.
+> Os exemplos usam empresas fictícias de áreas variadas (hospital, escola, loja, transportadora, hotel). Nenhum dado real de empresa aparece aqui.
 > As notas são resumos com minhas palavras; o crédito de cada aula vai para quem ensinou (link na seção "Fonte" de cada nota).
 
 ## Mapa de estudos
@@ -55,7 +55,7 @@ Legenda: ☑ concluído · ◐ em andamento · ☐ a fazer
 ## Outras pastas
 
 - [`pesquisas/`](pesquisas/) — estudos abertos com dados. Primeiro: [o que 100 vagas de Governança de TI e GRC pedem (out/2026)](pesquisas/2026-10-vagas-governanca-grc/).
-- [`casos-praticos/`](casos-praticos/) — exercícios aplicando o conteúdo no ProvedorX.
+- [`casos-praticos/`](casos-praticos/) — exercícios aplicando o conteúdo em empresas fictícias.
 - [`linkedin/`](linkedin/) — posts que nasceram destas notas.
 - [`glossario.md`](glossario.md) — termos explicados de forma simples.
 

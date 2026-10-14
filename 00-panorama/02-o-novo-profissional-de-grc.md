@@ -51,12 +51,12 @@ Se registrar um risco ou um erro vira motivo de punição, as pessoas param de r
 
 Ordem prática sugerida para começar: **Compliance → Governança → Riscos**. Primeiro saber o que é obrigatório, depois organizar quem cuida, depois medir a exposição.
 
-## Exemplo no ProvedorX (empresa fictícia)
-O ProvedorX tem uma política de atendimento, contratos com clientes empresariais com prazo de reparo e obrigações com o regulador de telecom e com a LGPD. Cada área controla a sua parte.
+## Exemplo prático: uma rede de escolas (fictícia)
+A rede tem uma política de matrícula, contratos com as famílias que prometem prazos (como a entrega do boletim) e obrigações com o MEC e com a LGPD (dados de alunos menores de idade). Cada área controla a sua parte.
 
 - **Mapear:** uma planilha única com cada obrigação, a política ligada, o dono e a evidência de cumprimento.
-- **Cruzar:** o contrato promete reparo em 4 h; a política de atendimento não fala desse prazo → lacuna encontrada.
-- **Bússola:** um painel mensal com 5 indicadores (prazo de reparo cumprido, % de mudanças aprovadas, chamados reabertos, pedidos LGPD respondidos no prazo, treinamentos feitos).
+- **Cruzar:** o contrato promete boletim em 10 dias após o bimestre; a política da secretaria não fala desse prazo → lacuna encontrada.
+- **Bússola:** um painel mensal com 5 indicadores (prazo do boletim cumprido, % de mudanças nos sistemas aprovadas, chamados reabertos, pedidos LGPD respondidos no prazo, treinamentos feitos).
 
 ## Como se conecta com o resto
 - **COBIT 2019:** APO01 (estrutura de gestão de TI), APO12 (riscos), MEA01 (desempenho e indicadores), MEA03 (conformidade com requisitos externos).

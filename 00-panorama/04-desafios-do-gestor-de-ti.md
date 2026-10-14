@@ -74,11 +74,11 @@ O gestor de TI cuida de boa parte do **ciclo de vida do produto digital**:
 
 O IT4IT 3.0 detalha isso em **7 fluxos de valor**: avaliar, explorar, integrar, implantar, liberar, consumir e operar.
 
-## Exemplo no ProvedorX (empresa fictícia)
-- **Fazer ou comprar:** o atendimento ao cliente e a operação de rede são **diferenciais** e ficam em casa. A folha de pagamento e o e-mail corporativo são **commodity** e podem ser SaaS.
-- **Shadow IT:** uma equipe começa a usar uma planilha online gratuita com dados de clientes para controlar visitas técnicas. A TI precisa saber, avaliar o risco (LGPD) e oferecer uma alternativa aprovada.
-- **Governança de dados:** para os dados de clientes, o ProvedorX define quem pode **coletar** (cadastro), onde **armazena** (sistema de gestão), quem **relata** (indicadores), quem **decide** com eles, para quem **distribui** (parceiros de instalação) e quando **descarta** (prazo legal após o fim do contrato).
-- **Projeto vira operação:** a migração para um novo sistema de atendimento é um projeto; quando termina, vira rotina do suporte, e os problemas da rotina viram novos projetos de melhoria.
+## Exemplo prático: uma transportadora (fictícia)
+- **Fazer ou comprar:** o sistema de roteirização das entregas é **diferencial** e fica em casa. A folha de pagamento e o e-mail corporativo são **commodity** e podem ser SaaS.
+- **Shadow IT:** os motoristas começam a usar um grupo de mensagens com fotos dos comprovantes de entrega e endereços de clientes. A TI precisa saber, avaliar o risco (LGPD) e oferecer uma alternativa aprovada.
+- **Governança de dados:** para os dados de entrega, a empresa define quem pode **coletar** (cadastro do pedido), onde **armazena** (sistema de gestão), quem **relata** (indicadores), quem **decide** com eles, para quem **distribui** (parceiros de última milha) e quando **descarta** (prazo legal).
+- **Projeto vira operação:** a implantação de rastreio em tempo real é um projeto; quando termina, vira rotina da operação, e os problemas da rotina viram novos projetos de melhoria.
 
 ## Como se conecta com o resto
 - **Aula 03:** ISO 27001, NIST e CIS são as "ferramentas" de segurança que o gestor escolhe.

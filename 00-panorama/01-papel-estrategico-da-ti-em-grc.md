@@ -89,15 +89,15 @@ Se a equipe não sabe o motivo de um controle, tanto faz fazer bem ou mal. Trein
 
 **Dado da aula:** pesquisa da KPMG sobre maturidade de compliance no Brasil (106 empresas, 2024). Cerca de metade das empresas usa tecnologia para análise de dados de compliance e para gestão de terceiros. No setor de tecnologia, mídia e telecom, **investir em tecnologia para compliance** aparece como grande desafio, porque as empresas não enxergam a TI como ferramenta de compliance. Quase não há gente de TI atuando na função de compliance, e isso é uma oportunidade.
 
-## Exemplo no ProvedorX (empresa fictícia)
+## Exemplo prático: um hospital (fictício)
 | Situação | Leitura de GRC |
 |---|---|
-| Técnicos terceirizados entram na casa dos clientes | Risco de terceiros → **due diligence** dos parceiros de instalação |
-| Poucos admins com senha das OLTs e roteadores de borda | Acesso privilegiado → **PAM e cofre de senhas**, com log de quem acessou |
-| Atendentes acessam dados de clientes no sistema | **DLP** e perfis de acesso mínimo (LGPD) |
-| Contrato promete reparo em 4 h para clientes empresariais | **Obrigação voluntária de compliance**: prometeu, tem que cumprir e medir |
-| Golpe de "segunda via de boleto" com o nome do provedor | **Threat intelligence** e resposta rápida |
-| Treinamento de procedimentos no portal interno | Evidência de conscientização (quem fez, quando, nota) |
+| Empresa terceirizada faz a manutenção dos equipamentos médicos | Risco de terceiros → **due diligence** do fornecedor |
+| Poucos admins têm a senha do sistema de prontuário | Acesso privilegiado → **PAM e cofre de senhas**, com log de quem acessou |
+| Recepção acessa dados de pacientes | **DLP** e perfis de acesso mínimo (LGPD, dado sensível de saúde) |
+| Contrato com plano de saúde promete laudo em 24 h | **Obrigação voluntária de compliance**: prometeu, tem que cumprir e medir |
+| Golpe de "cobrança de exame" usando o nome do hospital | **Threat intelligence** e resposta rápida |
+| Treinamento de protocolos no portal interno | Evidência de conscientização (quem fez, quando, nota) |
 | Canal de relatos anônimo, fora da cadeia de chefia | **Detecção** com credibilidade |
 
 ## Como se conecta com o resto
