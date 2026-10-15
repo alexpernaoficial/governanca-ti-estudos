@@ -50,7 +50,11 @@ Legenda: ☑ concluído · ◐ em andamento · ☐ a fazer
 ☐ Governança da IA · ☐ Governança de dados + IA · ☐ ISO/IEC 38507 · ☐ Shadow AI · ☐ Riscos da IA · ☐ Engenharia social na era da IA · ☐ Ética e IA · ☐ NIST AI RMF · ☐ Programa de cibersegurança + IA (NIST CSF 2.0 + Cyber AI Profile, 2 partes) · ☐ ISO/IEC 42001 · ☐ EU AI Act · ☐ Governança de IA com ITIL 5 · ☐ ISO/IEC 42005 · ☐ Compliance para IA · ☐ Auditoria ISO/IEC 42001 · ☐ OWASP LLM Top 10 · ☐ IA confiável: testar respostas e reduzir alucinações · ☐ Segurança na era dos agentes · ☐ Detecção de conteúdo gerado por IA · ☐ AI Cybersecurity Foundation
 
 ### 07 · Carreira e soft skills
-☐ LinkedIn · ☐ Processo seletivo · ☐ Liderança colaborativa · ☐ Times de alta performance · ☐ OKR · ☐ Business case de segurança · ☐ CISM x CISSP x CRISC
+| | Aula | Fonte | Nota |
+|---|---|---|---|
+| ☑ | Gestão ágil na era da IA: o futuro da liderança (OKR, Scrum, Kanban, antifragilidade) | MindMaster | [nota](07-carreira-e-soft-skills/01-gestao-agil-na-era-da-ia.md) |
+
+☐ LinkedIn · ☐ Processo seletivo · ☐ Liderança colaborativa · ☐ Times de alta performance · ☐ Business case de segurança · ☐ CISM x CISSP x CRISC
 
 ## Outras pastas
 

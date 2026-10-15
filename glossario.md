@@ -47,3 +47,10 @@ Termos explicados de forma simples. Cresce conforme os estudos avançam.
 | **4 dimensões** | Organizações e pessoas; informação e tecnologia; parceiros e fornecedores; fluxos de valor e processos. |
 | **PESTEL** | Fatores externos: político, econômico, social, tecnológico, legal e ambiental. |
 | **POP** | Procedimento operacional padrão: passo a passo para todos executarem a tarefa do mesmo jeito. |
+| **BANI** | Frágil, Ansioso, Não linear e Incompreensível: descrição do mundo atual, evolução do VUCA. |
+| **Antifrágil** | Que não apenas resiste ao choque, mas melhora com ele (conceito de Nassim Taleb). |
+| **OKR** | Objectives and Key Results: objetivo inspirador mais resultados-chave mensuráveis. |
+| **Kaizen** | Melhoria contínua, base da cultura Lean. |
+| **Backlog** | Lista priorizada de tudo que precisa ser feito. |
+| **Sprint** | Ciclo curto de trabalho no Scrum, de 1 a 4 semanas. |
+| **Kanban** | Quadro que torna o fluxo de trabalho visível, com limite de itens em andamento. |

@@ -2,4 +2,5 @@
 
 LinkedIn, processos seletivos, liderança, times de alta performance, OKR e business case.
 
-_Notas em breve._
+## Notas
+- [Gestão ágil na era da IA: o futuro da liderança](01-gestao-agil-na-era-da-ia.md)
