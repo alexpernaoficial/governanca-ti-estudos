@@ -54,7 +54,7 @@ Legenda: ☑ concluído · ◐ em andamento · ☐ a fazer
 
 ## Outras pastas
 
-- [`pesquisas/`](pesquisas/) — estudos abertos com dados. Primeiro: [o que 100 vagas de Governança de TI e GRC pedem (out/2026)](pesquisas/2026-10-vagas-governanca-grc/).
+- [`pesquisa-vagas-governanca-grc`](https://github.com/alexpernaoficial/pesquisa-vagas-governanca-grc) — repositório próprio: o que 100 vagas de Governança de TI e GRC pedem (out/2026).
 - [`livros-resumos`](https://github.com/alexpernaoficial/livros-resumos) — repositório próprio com os resumos dos audiobooks que ouço.
 - [`casos-praticos/`](casos-praticos/) — exercícios aplicando o conteúdo em empresas fictícias.
 - [`linkedin/`](linkedin/) — posts que nasceram destas notas.
