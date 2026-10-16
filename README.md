@@ -60,6 +60,7 @@ Legenda: ☑ concluído · ◐ em andamento · ☐ a fazer
 | | Curso | Fonte | Nota |
 |---|---|---|---|
 | ☑ | Leadership Communication: comunicação de liderança, apresentações e storytelling (40 h) | FIAP | [nota](08-fiap-nano-courses/01-leadership-communication.md) |
+| ☑ | DevOps & Agile Culture: DevOps, Scrum, Kanban, métricas de agilidade e UML (60 h) | FIAP | [nota](08-fiap-nano-courses/02-devops-agile-culture.md) |
 
 Pasta exclusiva dos cursos da FIAP: [`08-fiap-nano-courses/`](08-fiap-nano-courses/README.md). Novos cursos entram aqui.
 

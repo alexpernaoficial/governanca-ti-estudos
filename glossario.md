@@ -61,3 +61,11 @@ Termos explicados de forma simples. Cresce conforme os estudos avançam.
 | **Feedback** | Retorno sobre um comportamento, corretivo ou de reconhecimento: descrever, dizer a consequência, verificar, planejar e reconhecer. |
 | **Comunicação de liderança** | Mensagem do líder ligada à cultura e aos valores, sobre visão, missão e ação, para fortalecer confiança e compromisso. |
 | **Storytelling** | Contar histórias, com começo, meio e fim, personagens e conflito, para transmitir uma mensagem de forma memorável. |
+| **DevOps** | Cultura que aproxima desenvolvimento e operação, com práticas e ferramentas para entregar software com velocidade e qualidade. |
+| **Integração e entrega contínuas (CI/CD)** | Integrar e testar o código com frequência e manter o software sempre pronto para ser liberado. |
+| **DevSecOps** | Segurança distribuída por todo o ciclo de desenvolvimento e operação, e não só no final. |
+| **Lead time** | Tempo total desde o pedido até a entrega. |
+| **Cycle time** | Tempo desde o início efetivo do trabalho até ficar pronto. |
+| **WIP** | Work in progress: quantidade de trabalho em andamento ao mesmo tempo, limitada no Kanban. |
+| **UML** | Linguagem de notação visual para modelar sistemas, sobretudo orientados a objetos. |
+| **Caso de uso** | Funcionalidade do sistema vista do ponto de vista do usuário (ator), parte do modelo de requisitos funcionais. |

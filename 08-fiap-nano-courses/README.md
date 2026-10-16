@@ -4,6 +4,7 @@ Estudos dos cursos que faço na plataforma da FIAP (Nano Courses). Cada curso ga
 
 ## Cursos concluídos
 - **01** · [Leadership Communication](01-leadership-communication.md) · 40 h · concluído em 16/10/2026 · comunicação, comunicação de liderança, técnicas de apresentação e storytelling
+- **02** · [DevOps & Agile Culture](02-devops-agile-culture.md) · 60 h · concluído em 16/10/2026 · cultura DevOps, Scrum, Kanban, XP, métricas de agilidade, UML e casos de uso
 
 ## Em andamento e a fazer
 - Ainda sem cursos na fila. Novos cursos entram aqui conforme eu for concluindo.
