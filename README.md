@@ -56,6 +56,13 @@ Legenda: ☑ concluído · ◐ em andamento · ☐ a fazer
 
 ☐ LinkedIn · ☐ Processo seletivo · ☐ Liderança colaborativa · ☐ Times de alta performance · ☐ Business case de segurança · ☐ CISM x CISSP x CRISC
 
+### 08 · FIAP Nano Courses
+| | Curso | Fonte | Nota |
+|---|---|---|---|
+| ☑ | Leadership Communication: comunicação de liderança, apresentações e storytelling (40 h) | FIAP | [nota](08-fiap-nano-courses/01-leadership-communication.md) |
+
+Pasta exclusiva dos cursos da FIAP: [`08-fiap-nano-courses/`](08-fiap-nano-courses/README.md). Novos cursos entram aqui.
+
 ## Outras pastas
 
 - [`pesquisa-vagas-governanca-grc`](https://github.com/alexpernaoficial/pesquisa-vagas-governanca-grc) — repositório próprio: o que 100 vagas de Governança de TI e GRC pedem (out/2026).

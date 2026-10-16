@@ -54,3 +54,10 @@ Termos explicados de forma simples. Cresce conforme os estudos avançam.
 | **Backlog** | Lista priorizada de tudo que precisa ser feito. |
 | **Sprint** | Ciclo curto de trabalho no Scrum, de 1 a 4 semanas. |
 | **Kanban** | Quadro que torna o fluxo de trabalho visível, com limite de itens em andamento. |
+| **Comunicação (processo)** | Só se completa quando o receptor entende e devolve um retorno; informação é apenas transmitir dados. |
+| **Ruído e interferência** | Perturbações que deformam a mensagem: o ruído vem de dentro do sistema, a interferência vem do ambiente externo. |
+| **Barreiras à comunicação** | Pessoais (emoções, valores), físicas (ambiente, distância) e semânticas (palavras e símbolos com sentidos diferentes). |
+| **Escuta ativa** | Ouvir para compreender o ponto de vista do outro, sem preparar a resposta enquanto ele fala. |
+| **Feedback** | Retorno sobre um comportamento, corretivo ou de reconhecimento: descrever, dizer a consequência, verificar, planejar e reconhecer. |
+| **Comunicação de liderança** | Mensagem do líder ligada à cultura e aos valores, sobre visão, missão e ação, para fortalecer confiança e compromisso. |
+| **Storytelling** | Contar histórias, com começo, meio e fim, personagens e conflito, para transmitir uma mensagem de forma memorável. |
