@@ -11,6 +11,7 @@ Posts que nasceram das notas deste repositório, com a imagem usada em cada um.
 - [10/2026 · O que falta no GRC não é técnica](2026-10-o-que-falta-no-grc.md)
 - [10/2026 · O gestor de hoje gerencia a incerteza](2026-10-gestao-agil-incerteza.md)
 - [10/2026 · Leadership Communication (FIAP)](2026-10-fiap-leadership-communication.md)
+- [10/2026 · DevOps & Agile Culture (FIAP)](2026-10-fiap-devops-agile-culture.md)
 
 ## Estilos usados
 
@@ -23,5 +24,6 @@ Posts que nasceram das notas deste repositório, com a imagem usada em cada um.
 | 10/2026 · ITIL 4: antes × depois | Fundo cinza-claro, "antes × depois" em duas colunas (cartão branco com borda vermelha × cartão verde-petróleo), fórmula de valor no rodapé |
 | 10/2026 · O gestor de hoje gerencia a incerteza | Fundo verde-floresta, laço infinito (menta e coral) com dois lados e 3 cartões de pilares |
 | 10/2026 · Leadership Communication (FIAP) | Foto do certificado (fundo escuro com detalhes em rosa) |
+| 10/2026 · DevOps & Agile Culture (FIAP) | Foto do certificado (fundo escuro com detalhes em rosa) |
 
 Próximos posts: variar paleta e layout (comparação lado a lado, diagrama, frase grande, fluxo, mito × verdade).
