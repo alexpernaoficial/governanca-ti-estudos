@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350" font-family="Segoe UI, DejaVu Sans, Arial, sans-serif">
+<rect width="1080" height="1350" fill="#1E2229"/>
+<text x="84" y="150" font-size="30" fill="#8FA3B8" letter-spacing="3">PRIVACIDADE NA ERA DA IA</text>
+<text x="84" y="250" font-size="68" font-weight="700" fill="#FFFFFF">A IA raramente entra</text>
+<text x="84" y="330" font-size="68" font-weight="700" fill="#FFFFFF">pela porta da frente.</text>
+<rect x="84" y="390" width="250" height="150" rx="14" fill="#2A313B" stroke="#8FA3B8" stroke-width="3" stroke-dasharray="10 8"/>
+<text x="209" y="450" font-size="26" fill="#C5D0DC" text-anchor="middle">Porta da frente</text>
+<text x="209" y="490" font-size="22" fill="#8FA3B8" text-anchor="middle">projeto aprovado</text>
+<text x="209" y="518" font-size="22" fill="#8FA3B8" text-anchor="middle">em comitê</text>
+<text x="380" y="450" font-size="34" font-weight="600" fill="#FFB84D">Ela entra por 8 janelas</text>
+<text x="380" y="495" font-size="28" fill="#C5D0DC">contratos assinados, botões</text>
+<text x="380" y="530" font-size="28" fill="#C5D0DC">ligados, apps instalados.</text>
+<rect x="84" y="600" width="426" height="140" rx="16" fill="#2A313B"/>
+<rect x="104" y="624" width="64" height="92" rx="6" fill="#3DD6D0" opacity="0.9"/>
+<line x1="136" y1="624" x2="136" y2="716" stroke="#1E2229" stroke-width="4"/><line x1="104" y1="670" x2="168" y2="670" stroke="#1E2229" stroke-width="4"/>
+<text x="188" y="654" font-size="22" fill="#3DD6D0" font-weight="700">1</text>
+<text x="188" y="688" font-size="29" fill="#FFFFFF" font-weight="600">SaaS com</text>
+<text x="188" y="722" font-size="29" fill="#FFFFFF" font-weight="600">botão de IA</text>
+<rect x="534" y="600" width="426" height="140" rx="16" fill="#2A313B"/>
+<rect x="554" y="624" width="64" height="92" rx="6" fill="#FFB84D" opacity="0.9"/>
+<line x1="586" y1="624" x2="586" y2="716" stroke="#1E2229" stroke-width="4"/><line x1="554" y1="670" x2="618" y2="670" stroke="#1E2229" stroke-width="4"/>
+<text x="638" y="654" font-size="22" fill="#FFB84D" font-weight="700">2</text>
+<text x="638" y="688" font-size="29" fill="#FFFFFF" font-weight="600">Navegador e</text>
+<text x="638" y="722" font-size="29" fill="#FFFFFF" font-weight="600">extensões</text>
+<rect x="84" y="760" width="426" height="140" rx="16" fill="#2A313B"/>
+<rect x="104" y="784" width="64" height="92" rx="6" fill="#3DD6D0" opacity="0.9"/>
+<line x1="136" y1="784" x2="136" y2="876" stroke="#1E2229" stroke-width="4"/><line x1="104" y1="830" x2="168" y2="830" stroke="#1E2229" stroke-width="4"/>
+<text x="188" y="814" font-size="22" fill="#3DD6D0" font-weight="700">3</text>
+<text x="188" y="848" font-size="29" fill="#FFFFFF" font-weight="600">Cláusula do</text>
+<text x="188" y="882" font-size="29" fill="#FFFFFF" font-weight="600">fornecedor</text>
+<rect x="534" y="760" width="426" height="140" rx="16" fill="#2A313B"/>
+<rect x="554" y="784" width="64" height="92" rx="6" fill="#FFB84D" opacity="0.9"/>
+<line x1="586" y1="784" x2="586" y2="876" stroke="#1E2229" stroke-width="4"/><line x1="554" y1="830" x2="618" y2="830" stroke="#1E2229" stroke-width="4"/>
+<text x="638" y="814" font-size="22" fill="#FFB84D" font-weight="700">4</text>
+<text x="638" y="848" font-size="29" fill="#FFFFFF" font-weight="600">E-mail e</text>
+<text x="638" y="882" font-size="29" fill="#FFFFFF" font-weight="600">respostas por IA</text>
+<rect x="84" y="920" width="426" height="140" rx="16" fill="#2A313B"/>
+<rect x="104" y="944" width="64" height="92" rx="6" fill="#3DD6D0" opacity="0.9"/>
+<line x1="136" y1="944" x2="136" y2="1036" stroke="#1E2229" stroke-width="4"/><line x1="104" y1="990" x2="168" y2="990" stroke="#1E2229" stroke-width="4"/>
+<text x="188" y="974" font-size="22" fill="#3DD6D0" font-weight="700">5</text>
+<text x="188" y="1008" font-size="29" fill="#FFFFFF" font-weight="600">Celular e</text>
+<text x="188" y="1042" font-size="29" fill="#FFFFFF" font-weight="600">teclado com IA</text>
+<rect x="534" y="920" width="426" height="140" rx="16" fill="#2A313B"/>
+<rect x="554" y="944" width="64" height="92" rx="6" fill="#FFB84D" opacity="0.9"/>
+<line x1="586" y1="944" x2="586" y2="1036" stroke="#1E2229" stroke-width="4"/><line x1="554" y1="990" x2="618" y2="990" stroke="#1E2229" stroke-width="4"/>
+<text x="638" y="974" font-size="22" fill="#FFB84D" font-weight="700">6</text>
+<text x="638" y="1008" font-size="29" fill="#FFFFFF" font-weight="600">API de LLM</text>
+<text x="638" y="1042" font-size="29" fill="#FFFFFF" font-weight="600">no código</text>
+<rect x="84" y="1080" width="426" height="140" rx="16" fill="#2A313B"/>
+<rect x="104" y="1104" width="64" height="92" rx="6" fill="#3DD6D0" opacity="0.9"/>
+<line x1="136" y1="1104" x2="136" y2="1196" stroke="#1E2229" stroke-width="4"/><line x1="104" y1="1150" x2="168" y2="1150" stroke="#1E2229" stroke-width="4"/>
+<text x="188" y="1134" font-size="22" fill="#3DD6D0" font-weight="700">7</text>
+<text x="188" y="1168" font-size="29" fill="#FFFFFF" font-weight="600">Marketing e</text>
+<text x="188" y="1202" font-size="29" fill="#FFFFFF" font-weight="600">perfilamento</text>
+<rect x="534" y="1080" width="426" height="140" rx="16" fill="#2A313B"/>
+<rect x="554" y="1104" width="64" height="92" rx="6" fill="#FFB84D" opacity="0.9"/>
+<line x1="586" y1="1104" x2="586" y2="1196" stroke="#1E2229" stroke-width="4"/><line x1="554" y1="1150" x2="618" y2="1150" stroke="#1E2229" stroke-width="4"/>
+<text x="638" y="1134" font-size="22" fill="#FFB84D" font-weight="700">8</text>
+<text x="638" y="1168" font-size="29" fill="#FFFFFF" font-weight="600">RH e triagem</text>
+<text x="638" y="1202" font-size="29" fill="#FFFFFF" font-weight="600">de currículos</text>
+<text x="84" y="1280" font-size="30" fill="#C5D0DC">Quem ativa a IA raramente é quem responde por ela.</text>
+<text x="84" y="1320" font-size="24" fill="#8FA3B8">Masterclass TIexames e DataUX · Prof. Matheus Passos</text></svg>

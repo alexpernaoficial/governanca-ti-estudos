@@ -12,6 +12,7 @@ Posts que nasceram das notas deste repositório, com a imagem usada em cada um.
 - [10/2026 · O gestor de hoje gerencia a incerteza](2026-10-gestao-agil-incerteza.md)
 - [10/2026 · Leadership Communication (FIAP)](2026-10-fiap-leadership-communication.md)
 - [10/2026 · DevOps & Agile Culture (FIAP)](2026-10-fiap-devops-agile-culture.md)
+- [10/2026 · Programa de privacidade na era da IA](2026-10-programa-privacidade-era-ia.md)
 
 ## Estilos usados
 
@@ -25,5 +26,6 @@ Posts que nasceram das notas deste repositório, com a imagem usada em cada um.
 | 10/2026 · O gestor de hoje gerencia a incerteza | Fundo verde-floresta, laço infinito (menta e coral) com dois lados e 3 cartões de pilares |
 | 10/2026 · Leadership Communication (FIAP) | Foto do certificado (fundo escuro com detalhes em rosa) |
 | 10/2026 · DevOps & Agile Culture (FIAP) | Foto do certificado (fundo escuro com detalhes em rosa) |
+| 10/2026 · Programa de privacidade na era da IA | Fundo grafite escuro, 8 janelas em grade 2x4 com ícones de janela acesa (ciano e âmbar) e uma porta da frente em destaque |
 
 Próximos posts: variar paleta e layout (comparação lado a lado, diagrama, frase grande, fluxo, mito × verdade).

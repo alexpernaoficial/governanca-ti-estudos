@@ -69,3 +69,9 @@ Termos explicados de forma simples. Cresce conforme os estudos avançam.
 | **WIP** | Work in progress: quantidade de trabalho em andamento ao mesmo tempo, limitada no Kanban. |
 | **UML** | Linguagem de notação visual para modelar sistemas, sobretudo orientados a objetos. |
 | **Caso de uso** | Funcionalidade do sistema vista do ponto de vista do usuário (ator), parte do modelo de requisitos funcionais. |
+| **Shadow AI (IA na sombra)** | Uso de ferramentas de IA na organização sem inventário, dono nem avaliação, muitas vezes por contas pessoais. |
+| **RAG** | Retrieval-Augmented Generation (busca aumentada): o modelo consulta uma base de documentos antes de responder. |
+| **RIPD** | Relatório de Impacto à Proteção de Dados Pessoais, previsto na LGPD. |
+| **RoPA** | Registro das atividades de tratamento de dados pessoais, com finalidades, bases legais e fluxos. |
+| **MITRE AI Maturity Model** | Modelo público e gratuito de maturidade em IA: seis pilares, 20 dimensões e cinco níveis. |
+

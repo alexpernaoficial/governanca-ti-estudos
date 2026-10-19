@@ -47,6 +47,10 @@ Legenda: ☑ concluído · ◐ em andamento · ☐ a fazer
 ☐ BIA · ☐ PCN · ☐ DRP · ☐ CIS Controls v8.1 · ☐ NIST Zero Trust (SP 800-207) · ☐ LGPD / DPO · ☐ Inventário de dados · ☐ Governança de dados e regulamentações no Brasil
 
 ### 06 · Governança de IA
+| | Aula | Fonte | Nota |
+|---|---|---|---|
+| ☑ | Desenhando um programa de privacidade para a era da IA (masterclass) | TIexames / DataUX | [nota](06-governanca-de-ia/01-programa-de-privacidade-na-era-da-ia.md) |
+
 ☐ Governança da IA · ☐ Governança de dados + IA · ☐ ISO/IEC 38507 · ☐ Shadow AI · ☐ Riscos da IA · ☐ Engenharia social na era da IA · ☐ Ética e IA · ☐ NIST AI RMF · ☐ Programa de cibersegurança + IA (NIST CSF 2.0 + Cyber AI Profile, 2 partes) · ☐ ISO/IEC 42001 · ☐ EU AI Act · ☐ Governança de IA com ITIL 5 · ☐ ISO/IEC 42005 · ☐ Compliance para IA · ☐ Auditoria ISO/IEC 42001 · ☐ OWASP LLM Top 10 · ☐ IA confiável: testar respostas e reduzir alucinações · ☐ Segurança na era dos agentes · ☐ Detecção de conteúdo gerado por IA · ☐ AI Cybersecurity Foundation
 
 ### 07 · Carreira e soft skills
