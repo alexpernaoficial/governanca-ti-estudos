@@ -68,6 +68,12 @@ Legenda: ☑ concluído · ◐ em andamento · ☐ a fazer
 
 Pasta exclusiva dos cursos da FIAP: [`08-fiap-nano-courses/`](08-fiap-nano-courses/README.md). Novos cursos entram aqui.
 
+| ☑ | Imersão Expert Agentes de IA (4 aulas) | NoCode StartUp | [nota](09-cursos-ia-e-dados/01-imersao-agentes-de-ia-nocode-startup.md) |
+| ☑ | Imersão Databricks + Claude Code (4 dias) | Jornada de Dados | [nota](09-cursos-ia-e-dados/02-imersao-databricks-claude-code.md) |
+| ☑ | Workshop Arquitetura em Sistemas de IA (9 h) | DascIA | [nota](09-cursos-ia-e-dados/03-workshop-arquitetura-sistemas-ia-dascia.md) |
+
+Pasta dos cursos de IA e dados: [`09-cursos-ia-e-dados/`](09-cursos-ia-e-dados/README.md).
+
 ## Outras pastas
 
 - [`pesquisa-vagas-governanca-grc`](https://github.com/alexpernaoficial/pesquisa-vagas-governanca-grc) — repositório próprio: o que 100 vagas de Governança de TI e GRC pedem (out/2026).
