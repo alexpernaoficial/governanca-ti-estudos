@@ -21,6 +21,4 @@ O que eu levo do tema:
 
 Estou estudando governança de TI, e privacidade faz parte desse mapa.
 
-Qual rotina de privacidade você acha mais difícil de manter no dia a dia?
-
 #LGPD #PrivacidadeDeDados #DPO #GovernançaDeTI #KaSolution
