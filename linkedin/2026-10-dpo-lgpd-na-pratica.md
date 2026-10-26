@@ -1,7 +1,7 @@
 # Post: DPO e LGPD na prática
 
-Rascunho para aprovação. Publicação sugerida: próxima quarta ou quinta, 08:00. Primeiro comentário: link da nota no GitHub.
-Imagem: foto do certificado de conclusão (Ka Solution), conforme combinado.
+Agendado no LinkedIn para quarta-feira, 28/10/2026, 08:00. Primeiro comentário: link da nota no GitHub.
+Imagem: foto do certificado de conclusão (Ka Solution) sobre fundo azul-marinho, 1080x1350.
 
 Origem: Aulão "DPO & LGPD na prática", Ka Solution.
 
