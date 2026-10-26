@@ -44,7 +44,11 @@ Legenda: ☑ concluído · ◐ em andamento · ☐ a fazer
 ☐ ISO 27001 Foundation (3 aulas) · ☐ ISO 27002:2022 · ☐ Gap analysis · ☐ Política de segurança · ☐ ISO 27004 (métricas) · ☐ Auditoria ISO 27001 · ☐ ISO 19011
 
 ### 05 · Continuidade, controles e LGPD
-☐ BIA · ☐ PCN · ☐ DRP · ☐ CIS Controls v8.1 · ☐ NIST Zero Trust (SP 800-207) · ☐ LGPD / DPO · ☐ Inventário de dados · ☐ Governança de dados e regulamentações no Brasil
+| | Aula | Fonte | Nota |
+|---|---|---|---|
+| ☑ | DPO e LGPD na prática (aulão, visão geral) | Ka Solution | [nota](05-continuidade-controles-lgpd/01-dpo-e-lgpd-na-pratica.md) |
+
+☐ BIA · ☐ PCN · ☐ DRP · ☐ CIS Controls v8.1 · ☐ NIST Zero Trust (SP 800-207) · ☐ Inventário de dados · ☐ Governança de dados e regulamentações no Brasil
 
 ### 06 · Governança de IA
 | | Aula | Fonte | Nota |
