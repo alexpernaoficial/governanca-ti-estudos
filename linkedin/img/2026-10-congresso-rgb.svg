@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350" font-family="Segoe UI, DejaVu Sans, Arial, sans-serif">
+<rect width="1080" height="1350" fill="#3A1420"/>
+<text x="84" y="128" font-size="28" font-weight="700" fill="#F0B84A" letter-spacing="3">2º CONGRESSO · REDE GOVERNANÇA BRASIL</text>
+<text x="84" y="236" font-size="68" font-weight="800" fill="#FFFFFF">Governança, segurança</text>
+<text x="84" y="316" font-size="68" font-weight="800" fill="#FFFFFF">e privacidade</text>
+<text x="84" y="378" font-size="32" fill="#E9D9C8">O básico para guardar</text>
+<polygon points="84,520 540,410 996,520" fill="#F0B84A"/>
+<text x="540" y="504" font-size="36" font-weight="800" fill="#3A1420" text-anchor="middle">GOVERNANÇA</text>
+<rect x="84" y="530" width="912" height="46" rx="6" fill="#F0B84A"/>
+<text x="540" y="562" font-size="26" font-weight="600" fill="#3A1420" text-anchor="middle">Define a direção e quem decide o quê</text>
+<g fill="#F2E8D5">
+<rect x="84" y="604" width="292" height="430" rx="14"/>
+<rect x="394" y="604" width="292" height="430" rx="14"/>
+<rect x="704" y="604" width="292" height="430" rx="14"/>
+</g>
+<g font-weight="800" fill="#3A1420" font-size="30">
+<text x="106" y="674">Segurança</text><text x="106" y="714">da informação</text>
+<text x="416" y="674">Privacidade</text><text x="416" y="714">e LGPD</text>
+<text x="726" y="674">Ciber</text><text x="726" y="714">segurança</text>
+</g>
+<g fill="#C2452D"><rect x="106" y="748" width="64" height="6" rx="3"/><rect x="416" y="748" width="64" height="6" rx="3"/><rect x="726" y="748" width="64" height="6" rx="3"/></g>
+<g font-size="27" fill="#4A2A34">
+<text x="106" y="808">Protege a</text><text x="106" y="852">informação de</text><text x="106" y="896">acesso indevido,</text><text x="106" y="940">perda e alteração.</text>
+<text x="416" y="808">Cuida dos dados</text><text x="416" y="852">pessoais e dos</text><text x="416" y="896">direitos dos</text><text x="416" y="940">titulares.</text>
+<text x="726" y="808">Protege sistemas</text><text x="726" y="852">e redes contra</text><text x="726" y="896">ataques digitais.</text>
+</g>
+<rect x="84" y="1034" width="912" height="30" rx="6" fill="#F0B84A"/>
+<text x="84" y="1150" font-size="42" font-weight="700" fill="#FFFFFF">Os temas se complementam:</text>
+<text x="84" y="1210" font-size="35" font-weight="700" fill="#F0B84A">a governança direciona, a proteção sustenta.</text>
+<text x="84" y="1292" font-size="26" fill="#E9D9C8">27/10/2026 · Certificado de participação</text>
+</svg>
