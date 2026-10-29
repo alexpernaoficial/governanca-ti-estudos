@@ -1,6 +1,6 @@
-# Power BI - Overview (Ka Solution)
+# Visão Geral do Power BI (Ka Solution)
 
-Fonte: Ka Solution, aulão ao vivo de Power BI realizado em 17/10/2026 (certificado de conclusão). Os organizadores deixaram a gravação, o gabarito das enquetes e links de apoio.
+Fonte: Ka Solution, aulão ao vivo de Power BI realizado em 17/10/2026 (certificado de conclusão: "Visão Geral do Power BI", carga de 8 horas). Os organizadores deixaram a gravação, o gabarito das enquetes e links de apoio.
 
 ## Em uma frase
 Power BI transforma dado organizado em indicador que a gestão consegue acompanhar, desde que o dado seja preparado e o acesso seja controlado.
