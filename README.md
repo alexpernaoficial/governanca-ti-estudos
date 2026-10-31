@@ -31,8 +31,9 @@ Legenda: ☑ concluído · ◐ em andamento · ☐ a fazer
 | | Aula | Fonte | Nota |
 |---|---|---|---|
 | ☑ | ITIL 4 – Gestão de Serviços – Aula 1: serviço, valor, princípios e 4 dimensões | [TIexames](https://youtu.be/Ddlws7iIfYc) | [nota](01-itil-gestao-de-servicos/05-itil-4-fundamentos-servico-valor-principios.md) |
+| ☑ | Gestão de Serviços de TI na Prática com ISO/IEC 20000-1 e ITIL 4 e 5 | [TIexames](https://youtu.be/wK7-C7PZ0bM) | [nota](01-itil-gestao-de-servicos/06-iso-20000-1-e-itil-na-pratica.md) |
 
-◐ ITIL 4 – Aula 2 · ☐ ISO/IEC 20000 + ITIL · ☐ ITIL 5 e IA · ☐ Gestão de incidentes (2 aulas) · ☐ Mapeamento de processos e POPs · ☐ ISO 20000 corporativa
+◐ ITIL 5 e IA · ☐ ITIL 4 – Aula 2 · ☐ Gestão de incidentes (2 aulas) · ☐ Mapeamento de processos e POPs · ☐ ISO 20000 corporativa
 
 ### 02 · Governança de TI e COBIT
 ☐ Governança com COBIT · ☐ ISO/IEC 38500 · ☐ COBIT e controles internos · ☐ Planejamento estratégico de TI · ☐ Auditoria de TI

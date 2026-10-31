@@ -75,3 +75,7 @@ Termos explicados de forma simples. Cresce conforme os estudos avançam.
 | **RoPA** | Registro das atividades de tratamento de dados pessoais, com finalidades, bases legais e fluxos. |
 | **MITRE AI Maturity Model** | Modelo público e gratuito de maturidade em IA: seis pilares, 20 dimensões e cinco níveis. |
 
+| **SGS** | Sistema de Gestão de Serviços, o que a ISO/IEC 20000-1 pede para implantar. |
+| **Estrutura de alto nível (HLS)** | Índice padrão (cláusulas 1 a 10, Anexo SL) usado pelas normas ISO de sistema de gestão; facilita integrar 9001, 20000, 22301, 27001. |
+| **RACI** | Matriz de responsabilidades: quem executa (R), quem responde pelo resultado (A), quem é consultado (C) e quem é informado (I). |
+| **XLA** | Acordo de nível de experiência: mede a experiência de quem usa o produto ou serviço, ao lado do SLA. |
