@@ -2,7 +2,7 @@
 
 Imagem: img/2026-10-engenharia-software-ia-certificado.png (certificado). Nota de origem: ../09-cursos-ia-e-dados/05-engenharia-de-software-com-ia-tiexames.md
 
-Concluí o curso Engenharia de Software com IA, da TIexames, com o professor Jessé Rovira, em 4 aulas ao vivo, de 27 a 30/10, com carga de 8 horas.
+Concluí o curso Engenharia de Software com IA, da TIexames, com o professor Jessé Rovira.
 
 O que fica:
 
