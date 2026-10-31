@@ -15,6 +15,7 @@ Posts que nasceram das notas deste repositório, com a imagem usada em cada um.
 - [10/2026 · Programa de privacidade na era da IA](2026-10-programa-privacidade-era-ia.md)
 - [10/2026 · DPO e LGPD na prática (Ka Solution)](2026-10-dpo-lgpd-na-pratica.md)
 - [10/2026 · Congresso RGB: governança, segurança e privacidade](2026-10-congresso-rgb.md)
+- [10/2026 · Engenharia de Software com IA (TIexames)](2026-10-engenharia-software-ia.md)
 
 ## Estilos usados
 
