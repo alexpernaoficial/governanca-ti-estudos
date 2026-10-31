@@ -16,6 +16,7 @@ Posts que nasceram das notas deste repositório, com a imagem usada em cada um.
 - [10/2026 · DPO e LGPD na prática (Ka Solution)](2026-10-dpo-lgpd-na-pratica.md)
 - [10/2026 · Congresso RGB: governança, segurança e privacidade](2026-10-congresso-rgb.md)
 - [10/2026 · Engenharia de Software com IA (TIexames)](2026-10-engenharia-software-ia.md)
+- [10/2026 · ISO/IEC 20000-1 e ITIL na prática (TIexames)](2026-10-iso-20000-decida-no-comeco.md)
 
 ## Estilos usados
 
@@ -32,5 +33,6 @@ Posts que nasceram das notas deste repositório, com a imagem usada em cada um.
 | 10/2026 · DPO e LGPD na prática (Ka Solution) | Foto do certificado (fundo azul-marinho, certificado azul) |
 | 10/2026 · Programa de privacidade na era da IA | Fundo grafite escuro, 8 janelas em grade 2x4 com ícones de janela acesa (ciano e âmbar) e uma porta da frente em destaque |
 | 10/2026 · Congresso RGB | Fundo bordô escuro, templo com telhado dourado (governança) e 3 pilares em areia (segurança, privacidade, ciber) |
+| 10/2026 · ISO/IEC 20000-1: decida no começo | Fundo azul-acinzentado claro, escada de 4 degraus em cartões brancos com barra colorida (planejar, executar, verificar, agir) e faixa azul-marinho no rodapé |
 
 Próximos posts: variar paleta e layout (comparação lado a lado, diagrama, frase grande, fluxo, mito × verdade).

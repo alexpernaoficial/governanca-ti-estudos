@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <defs>
+    <style>
+      .f{font-family:"Segoe UI","DejaVu Sans",Arial,sans-serif}
+    </style>
+  </defs>
+  <rect width="1080" height="1350" fill="#e8eef7"/>
+  <rect x="0" y="0" width="1080" height="14" fill="#1e3a8a"/>
+  <text x="84" y="118" class="f" font-size="26" font-weight="700" letter-spacing="5" fill="#1e40af">ISO/IEC 20000-1 · GESTÃO DE SERVIÇOS</text>
+  <text x="84" y="214" class="f" font-size="78" font-weight="800" fill="#14213d">Decida no começo.</text>
+  <text x="84" y="304" class="f" font-size="78" font-weight="800" fill="#c2410c">Meça no fim.</text>
+  <text x="84" y="372" class="f" font-size="28" fill="#3b4a66">O PDCA da norma, da cláusula 4 à 10</text>
+
+  <!-- degrau 1 -->
+  <rect x="84" y="430" width="732" height="150" rx="22" fill="#ffffff"/>
+  <rect x="84" y="430" width="14" height="150" rx="7" fill="#1d4ed8"/>
+  <text x="128" y="474" class="f" font-size="22" font-weight="700" letter-spacing="3" fill="#1d4ed8">CLÁUSULAS 4 A 6 · PLANEJAR</text>
+  <text x="128" y="520" class="f" font-size="36" font-weight="800" fill="#14213d">Contexto, liderança, objetivos</text>
+  <text x="128" y="558" class="f" font-size="26" fill="#3b4a66">Aqui se decidem escopo, recursos e KPIs.</text>
+
+  <!-- degrau 2 -->
+  <rect x="144" y="604" width="732" height="150" rx="22" fill="#ffffff"/>
+  <rect x="144" y="604" width="14" height="150" rx="7" fill="#0f766e"/>
+  <text x="188" y="648" class="f" font-size="22" font-weight="700" letter-spacing="3" fill="#0f766e">CLÁUSULAS 7 E 8 · EXECUTAR</text>
+  <text x="188" y="694" class="f" font-size="36" font-weight="800" fill="#14213d">Apoio e operação</text>
+  <text x="188" y="732" class="f" font-size="26" fill="#3b4a66">Incidentes, mudanças, problemas, continuidade.</text>
+
+  <!-- degrau 3 -->
+  <rect x="204" y="778" width="732" height="150" rx="22" fill="#ffffff"/>
+  <rect x="204" y="778" width="14" height="150" rx="7" fill="#b45309"/>
+  <text x="248" y="822" class="f" font-size="22" font-weight="700" letter-spacing="3" fill="#b45309">CLÁUSULA 9 · VERIFICAR</text>
+  <text x="248" y="868" class="f" font-size="36" font-weight="800" fill="#14213d">Medir, auditar, analisar</text>
+  <text x="248" y="906" class="f" font-size="26" fill="#3b4a66">Só cobra o que foi combinado no início.</text>
+
+  <!-- degrau 4 -->
+  <rect x="264" y="952" width="732" height="150" rx="22" fill="#ffffff"/>
+  <rect x="264" y="952" width="14" height="150" rx="7" fill="#be123c"/>
+  <text x="308" y="996" class="f" font-size="22" font-weight="700" letter-spacing="3" fill="#be123c">CLÁUSULA 10 · AGIR</text>
+  <text x="308" y="1042" class="f" font-size="36" font-weight="800" fill="#14213d">Corrigir e melhorar</text>
+  <text x="308" y="1080" class="f" font-size="26" fill="#3b4a66">Toda não conformidade vira ação.</text>
+
+  <!-- rodapé -->
+  <rect x="84" y="1146" width="912" height="124" rx="22" fill="#14213d"/>
+  <text x="130" y="1200" class="f" font-size="32" font-weight="800" fill="#ffffff">A ISO diz o que provar.</text>
+  <text x="130" y="1244" class="f" font-size="32" font-weight="800" fill="#fbbf24">O ITIL ajuda a mostrar como.</text>
+</svg>
